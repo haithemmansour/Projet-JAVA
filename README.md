@@ -1,2 +1,2 @@
 # Ex7-Haithem-Mansour
- dévéloppement d'un serveur Java hébérgé sur une plateforme RaspBerry PI permettant de gérer à distance le systéme d'arrosage d'un jardin à 4 électrovannes
+ développement d'un serveur Java hébergé sur une plateforme Raspberry PI permettant de gérer à distance le système d'arrosage d'un jardin à 4 électrovannes
